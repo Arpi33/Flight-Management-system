@@ -37,3 +37,12 @@ Problem Definition:
 ![alt text](https://github.com/Arpi33/Flight-Management-system/blob/main/UI/b10.PNG?raw=true)
 <br>
 ![alt text](https://github.com/Arpi33/Flight-Management-system/blob/main/UI/b11.PNG?raw=true)
+
+<hr>
+
+# Limitations:
+1. This system is only for passengers.
+2. This system has issue with cancelling flight.
+3. Standby is not initialized here.
+4. Mile account class is not implemented completely.
+
