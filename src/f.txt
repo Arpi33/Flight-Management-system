@@ -1,0 +1,23 @@
+Booking Number: 193
+Ticket Price: 60$
+Destination: KualaLumpur
+Departure:  Johor
+Flying Date: 12-12-2021
+Returning Date: 03-09-2022
+Airline: Airasia
+Airline Code: AK70
+Departure Time: 12.30
+Arrival Time: 4.30
+Check In Time: 10.30
+Stop Check In Time: 12.00
+Boarding Time: 12.15
+Boarding Gate: A1
+Gate Number: 12
+
+
+***********Passenger Details****************
+
+Passenger Name: arpita bhattacharijee
+Email: arpibhatt77@gmail.com
+Passport Number: BN0719077
+Contact Number: 0189472531

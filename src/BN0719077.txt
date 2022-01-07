@@ -1,0 +1,23 @@
+Booking Number: 173
+Ticket Price: 122$
+Destination: KualaLumpur
+Departure:  Johor
+Flying Date: 12-12-2021
+Returning Date: 0-12-2021
+Airline: Malindo Air
+Airline Code: OD 55
+Departure Time: 5.10
+Arrival Time: 10.30
+Check In Time: 3.10
+Stop Check In Time: 4.30
+Boarding Time: 4.45
+Boarding Gate: L2
+Gate Number: 12
+
+
+***********Passenger Details****************
+
+Passenger Name: Arpita Bhattacharijee
+Email: arpibhatt77@gmail.com
+Passport Number: BN0719077
+Contact Number: 0189472531
